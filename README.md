@@ -7,4 +7,4 @@ Fetches image URLs based on user-specified keywords.
 Downloads the images from the retrieved URLs into a designated folder.
 Currently, I am completing my internship virtually with Code Alpha, where I have been working on multiple projects involving Python programming.
 
-Feel free to customize this for your GitHub profile!
+
